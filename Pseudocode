@@ -1,0 +1,29 @@
+Algoritma order_makanan_minuman_via_online
+
+START
+
+READ AND WRITE "Gojek"
+
+OPEN Gojek
+PRESS Buttom "GoFood"
+IF "want to buy"
+    PRINT "pilihan makanan atau minuman"
+ELSE "don't buy"
+    PRINT "tutup aplikasi"
+PRESS Buttom "pilihan makanan atau minuman"
+STORE "sudah tepat memilih"
+WHILE "confused"
+    DO "pilihan makanan atau minuman 
+DISPLAY "sudah tepat"
+IF "choise food or drink" then
+    PRESS Buttom "nama makanan atau minuman 
+ELSE
+    PRESS Buttom "nama restaurant"
+PRESS Buttom "tambahkan makanan atau minuman yang dipilih"
+PRESS Buttom "pembayaran"
+IF "want to pay" you can choise
+    PRESS Buttom "gopay" or
+    PRESS Buttom "cash"
+PRESS Buttom "pesan makanan"
+
+END
